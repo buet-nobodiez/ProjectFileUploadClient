@@ -21,7 +21,7 @@ public class ServerFileUploader {
         // TODO code application logic here\
         
         try{
-            // this line is for managing look and feel
+            // this line is for managing look and feel           
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
             //UIManager.getCrossPlatformLookAndFeelClassName();
             
