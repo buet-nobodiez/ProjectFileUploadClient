@@ -29,6 +29,7 @@ public class ServerFileUploader {
             
         }
         
+        System.out.println("File Uploader program started!!");
         MainWindow window= new MainWindow();
         window.setVisible(true);
         
